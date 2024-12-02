@@ -17,6 +17,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>zomatoapp</finalName>
+    <finalName>zepto</finalName>
   </build>
 </project>
